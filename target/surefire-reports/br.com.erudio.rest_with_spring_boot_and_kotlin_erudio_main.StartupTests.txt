@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.erudio.rest_with_spring_boot_and_kotlin_erudio_main.StartupTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.409 s -- in br.com.erudio.rest_with_spring_boot_and_kotlin_erudio_main.StartupTests
